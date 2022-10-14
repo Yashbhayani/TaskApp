@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Task App</string>
+    <string name="sign">Sign up</string>
+    <string name="emial">Emial</string>
+    <string name="password">Password</string>
+    <string name="e_mail">e-mail</string>
+    <string name="repeat_password">repeat password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="_remember_me" />
+    <string name="sign_up_with_social_account">Sign up with social account</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="sign_up">Sign up</string>
+    <string name="read_user_licence_agreement">Read User Licence Agreement</string>
+    <string name="sign_up_here">Sign up here</string>
+    <string name="name">Name :</string>
+    <string name="college">College :</string>
+    <string name="my_introduction">My Introduction</string>
+    <string name="yash_bhayani">Yash Bhayani</string>
+    <string name="sal_college_of_engineering">Sal College of Engineering</string>
+    <string name="s1">6th semester</string>
+    <string name="_8320351270">8320351270</string>
+    <string name="yb">yashbhani3007@gmail.com</string>
+    <string name="m1">My introduction</string>
+</resources>
